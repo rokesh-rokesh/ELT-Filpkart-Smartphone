@@ -1,4 +1,4 @@
-**Project Description: Building a Smart Smartphone Analysis Pipeline using Kafka, Spark, and MongoDB**
+**Project Description: Building a ETL Pipeline using Kafka, Spark, and MongoDB**
 
 In this exciting project, we will create an end-to-end data pipeline that leverages cutting-edge technologies to discover the best smartphones available on the Flipkart Big Sale. By combining web scraping, data ingestion with Kafka, and data processing using PySpark and MongoDB, we will uncover valuable insights into smartphone ratings and reviews within different price ranges. Let's delve into the project's key components and how they come together:
 

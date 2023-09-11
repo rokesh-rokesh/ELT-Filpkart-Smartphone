@@ -1,7 +1,6 @@
 **Project Description: Building a ETL Pipeline using Kafka, Spark, and MongoDB**
+In this project, we will create an end-to-end data pipeline that leverages cutting-edge technologies to discover the best smartphones available on the Flipkart Big Sale. By combining web scraping, data ingestion with Kafka, and data processing using PySpark and MongoDB, we will uncover valuable insights into smartphone ratings and reviews within different price ranges. Let's delve into the project's key components and how they come together:
 ![Extract](https://github.com/rokesh-rokesh/ELT-Filpkart-Smartphone/assets/84179582/f4de119a-b600-47d2-a160-b4b3c4529ab1)
-
-In this exciting project, we will create an end-to-end data pipeline that leverages cutting-edge technologies to discover the best smartphones available on the Flipkart Big Sale. By combining web scraping, data ingestion with Kafka, and data processing using PySpark and MongoDB, we will uncover valuable insights into smartphone ratings and reviews within different price ranges. Let's delve into the project's key components and how they come together:
 
 **1. Data Acquisition: Web Scraping from Flipkart**
 We'll kickstart the project by utilizing web scraping techniques to extract detailed information about smartphones from the Flipkart website. We'll collect data including smartphone names, prices, ratings, and reviews. This process will provide us with a rich dataset to analyze.
